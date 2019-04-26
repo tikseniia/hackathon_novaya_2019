@@ -2,22 +2,22 @@
 
 ## VK
 
-### vk/<medianame>_posts.json
+### vk/medianame_posts.json
 Посты из сообществ медиа. Начинаются с 15 ноября.
 
-### vk/<medianame>_searchposts.json
+### vk/medianame_searchposts.json
 Посты из сообществ медиа по слову "рунет". Начинаются с 15 ноября.
     
-### vk/<medianame>_searchposts_internet.json
+### vk/medianame_searchposts_internet.json
 Посты из сообществ медиа по слову "автономный интернет". Начинаются с 15 ноября.
 
-### vk/<medianame>_comment.json
+### vk/medianame_comment.json
 Комментарии под постами об автомноном интернете в медиа сообществах.
 
-### vk/<medianame>_users.json
+### vk/medianame_users.json
 Информация о пользователя, авторах комментариев.
     
-### vk/<medianame>_cities_media.json
+### vk/medianame_cities_media.json
 Статистика по городам комментаторов. 
     
 ### vk/posts.json
